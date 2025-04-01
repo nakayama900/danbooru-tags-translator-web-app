@@ -19,3 +19,6 @@ dev = [
     "jupyter>=1.1.1",
     "ruff>=0.11.2",
 ]
+
+[tool.setuptools]
+py-modules = ["server"]
