@@ -11,6 +11,7 @@ dependencies = [
     "torch>=2.6.0",
     "transformers>=4.50.3",
 ]
+scripts.danbooru-tags-translator-web-app-backend = "server"
 
 [dependency-groups]
 dev = [
